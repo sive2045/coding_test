@@ -1,7 +1,7 @@
 """
 신규 아이디 추천
 문제 링크 : https://programmers.co.kr/learn/courses/30/lessons/72410
-정규표현식 지식이 필요함
+정규표현식 지식이 필요함 : https://buyandpray.tistory.com/49
 """
 import re
 
